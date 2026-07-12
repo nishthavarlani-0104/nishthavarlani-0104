@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Images/banner.jpeg" alt="GitHub Banner" width ="100%">
+</p>
 # Hi there, I'm Nishtha Varlani 👋
 
 ## 👩‍💻 About Me
