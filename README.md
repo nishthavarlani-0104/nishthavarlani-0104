@@ -18,7 +18,7 @@
 
 **Generative AI:** LangChain, LangGraph, RAG
 
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power BI
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power BI, Google Colab
 
 ---
 
