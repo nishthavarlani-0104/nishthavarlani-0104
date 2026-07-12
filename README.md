@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Nishtha Varlani 👋
 
-<!--
-**nishthavarlani-0104/nishthavarlani-0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 MSc Physics student passionate about Data Science and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently learning Data Science alongside my master's while building real-world projects and continuously improving my technical skills.
+
+---
+
+## 💻 Skills
+
+**Languages:** Python, SQL
+
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+
+**Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+
+**Generative AI:** LangChain, LangGraph, RAG
+
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power BI
+
+---
+
+## 🚀 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Agentic AI
+- Large Language Models (LLMs)
+
+---
+
+## 📂 Featured Project
+
+- 📊 EDA AC Price Analysis
+
+---
+
+## 📜 Certifications
+
+*Coming soon...*
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn :- https://www.linkedin.com/in/nishtha-varlani-2778803b3/
+- 🤗 Hugging Face :- https://huggingface.co/nishthavarlani
+
