@@ -32,12 +32,6 @@
 
 ---
 
-## 📂 Featured Project
-
-- 📊 EDA AC Price Analysis
-
----
-
 ## 📜 Certifications
 
 *Coming soon...*
