@@ -12,13 +12,13 @@
 
 **Languages:** Python, SQL
 
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 **Machine Learning:** Scikit-learn, Keras, PyTorch
 
 **Generative AI:** LangChain, LangGraph, RAG
 
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power BI, Google Colab
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power BI, Google Colab, Streamlit
 
 ---
 
