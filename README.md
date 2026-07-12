@@ -14,7 +14,7 @@
 
 **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 
-**Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+**Machine Learning:** Scikit-learn, Keras, PyTorch
 
 **Generative AI:** LangChain, LangGraph, RAG
 
